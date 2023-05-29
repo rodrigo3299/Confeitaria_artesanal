@@ -1,0 +1,62 @@
+.container{
+
+background-color: red;
+    
+width : 100% ;
+    
+    }
+    
+    
+    
+    
+.topo h1{
+    
+display: flex;
+    
+color: white;
+    
+ justify-content: center;
+    
+    }
+    
+    
+    
+    
+.topo p{
+    
+display: flex;
+    
+ color: white;
+    
+ justify-content: center;
+    
+    }
+    
+    
+    
+    
+.meio{
+    
+display: flex;
+ justify-content: center;
+    
+ margin-top: 50px;
+    
+     width : 100vw;
+    
+    
+    
+    
+    }
+    
+    
+    
+.active{
+    background-color: red;
+}   
+    
+.carousel-caption d-none d-md-block{
+     background-color: red;
+}    
+    
+    
