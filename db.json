@@ -1,0 +1,26 @@
+{
+    "produtos": [
+    {
+    "id": 1,
+    "descricao": "Receita uva coberta",
+    "estoque": 10,
+    "valor": 10,
+    "imagem": "https://cdn0.tudoreceitas.com/pt/posts/0/4/6/pave_de_bombom_5640_paso_3_orig.jpg"
+    },
+    {
+    "id": 2,
+    "descricao": "Doce Pave",
+    "estoque": 10,
+    "valor": 15,
+    "imagem" : "https://cdn0.tudoreceitas.com/pt/posts/3/5/7/pave_napoleao_9753_600.webp"
+    },
+    {
+    "id": 3,
+    "descricao": "Doce Pave de Figo",
+    "estoque": 10,
+    "valor": 5.25,
+    "imagem" : "https://cdn0.tudoreceitas.com/pt/posts/8/0/2/pave_de_figo_6208_600.webp"
+    }
+    ]
+   }
+   
