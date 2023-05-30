@@ -64,3 +64,9 @@ display: flex;
 .mb-3{
     width: 30%;
 }    
+.col-md-4{
+    width: 100%;
+}
+.col-md-8{
+    width: 100%;
+}
