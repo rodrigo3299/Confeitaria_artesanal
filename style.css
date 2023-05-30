@@ -1,6 +1,6 @@
 .container{
 
-background-color: red;
+background-color: rgb(221, 130, 186);
     
 width : 100% ;
     
@@ -52,11 +52,13 @@ display: flex;
     
     
 .active{
-    background-color: red;
+    background-color: rgb(221, 130, 186);
+    
 }   
     
 .carousel-caption d-none d-md-block{
      background-color: red;
 }    
     
+      
     
