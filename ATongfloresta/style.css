@@ -1,0 +1,73 @@
+.container{
+
+    background-color: rgb(14, 119, 58);
+        
+    width : 100% ;
+        
+        }
+        
+        
+        
+        
+    .topo h1{
+        
+    display: flex;
+        
+    color: white;
+        
+     justify-content: center;
+        
+        }
+        
+        
+        
+        
+    .topo p{
+        
+    display: flex;
+        
+     color: white;
+        
+     justify-content: center;
+        
+        }
+        
+        
+        
+        
+    .meio{
+        
+    display: flex;
+     justify-content: center;
+        
+     margin-top: 50px;
+        
+         width : 100vw;
+        
+        
+        
+        
+        }
+        
+        
+        
+    .active{
+        background-color: rgb(14, 119, 58);
+    }
+        
+    .carousel-caption d-none d-md-block{
+         background-color: red;
+    }    
+        
+          
+    .mb-3{
+        width: 30%;
+    }    
+    .col-md-4{
+        width: 100%;
+    }
+    .col-md-8{
+        width: 100%;
+    }
+
+   
