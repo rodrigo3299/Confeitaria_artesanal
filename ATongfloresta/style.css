@@ -70,4 +70,24 @@
         width: 100%;
     }
 
-   
+   .img src{
+    width: 50px;
+   }
+
+   .card{
+    width: 90%;
+   }
+   .card-img-top{
+    width: 70%;
+   }
+   .card1{
+    width: 40%;
+   }
+   .card2{
+    width: 70%;
+   }
+   .card-img{
+    width: 50%;
+   }
+
+
