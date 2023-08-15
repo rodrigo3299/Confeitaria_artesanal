@@ -89,5 +89,20 @@
    .card-img{
     width: 50%;
    }
+   .form-control{
+    width: 50%;
+   }
+   .form-select{
+    width: 50%;
+   }
+   .card-img-top1{
+    width: 100%;
+   }
+   .card-img-top2{
+    width: 139%;
+   }
+   .card-img-top3{
+    height: 100%;
+   }
 
 
