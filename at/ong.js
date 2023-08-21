@@ -1,3 +1,4 @@
+//victor
 const prompt = require('prompt-sync')();
 
  
@@ -102,7 +103,7 @@ function reiniciarCarrinho() {
 
 }
 
- 
+ //marco
 
 function main() {
 
@@ -141,7 +142,7 @@ function main() {
       console.log(`${serviço[indice]} - Valor: R$${valor[indice].toFixed(2)}`);
 
     }
-
+//rodrigo
  
 
     console.log(`Total do carrinho: R$${calcularTotalDoacao().toFixed(2)}`);
@@ -166,4 +167,3 @@ main();
 
  
 
-//victor
